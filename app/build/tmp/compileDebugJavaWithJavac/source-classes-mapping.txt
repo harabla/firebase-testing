@@ -1,0 +1,6 @@
+com/example/clean_app/BuildConfig.java
+ com.example.clean_app.BuildConfig
+com/example/clean_app/MainActivity.java
+ com.example.clean_app.MainActivity
+ com.example.clean_app.MainActivity$1
+ com.example.clean_app.MainActivity$1$1
